@@ -1,0 +1,14 @@
+.notFoundImg {
+  height: 100vh;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/jobby-app-not-found-img.png');
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  background-size:cover;
+}
+.notFoundHeader {
+  color: #f8fafc;
+}
+.notFoundDesc {
+  color: #cbd5e1;
+}

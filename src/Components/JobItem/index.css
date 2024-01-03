@@ -1,0 +1,25 @@
+.jobItemContainer {
+  padding: 24px;
+  border-radius: 10px;
+
+  background-color: #272727;
+}
+.toDown {
+  display: flex;
+  flex-direction: column;
+}
+.toRight {
+  display: flex;
+  flex-direction: row;
+}
+.package {
+  margin-left: auto;
+}
+.company_logo {
+  height: 110px;
+  width: 100px;
+}
+.linkDec {
+  text-decoration: none;
+  color: white;
+}
