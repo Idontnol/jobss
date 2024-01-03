@@ -1,0 +1,20 @@
+.check {
+  color: white;
+  font-family: 'Roboto';
+}
+.radio {
+  color: white;
+  font-family: 'Roboto';
+}
+.order-radio {
+  display: flex;
+  flex-direction: column;
+}
+.header-radio{
+  color: white;
+
+}
+.header-check{
+  color: white;
+
+}
